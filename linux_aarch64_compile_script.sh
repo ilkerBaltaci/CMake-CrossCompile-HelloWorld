@@ -1,0 +1,1 @@
+cmake . -DCMAKE_TOOLCHAIN_FILE=./linux_aarch64.cmake -B build-linux_aarch64
